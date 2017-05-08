@@ -1,4 +1,4 @@
-# UK Election Data From 2015 and Referandum Results by Constituency
+# UK Election Data and Referandum Results by Constituency
 
 Sources:
 - General Election Results 2015: [Electoral Commission](http://www.electoralcommission.org.uk/our-work/our-research/electoral-data)
