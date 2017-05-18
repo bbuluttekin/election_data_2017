@@ -7,8 +7,17 @@ import bs4 as bs
 import pandas as pd
 
 
-def main(full_path='./', return_df=False):
+def main(full_path='.', return_df=False):
+    '''
+    Function to scrape and download or return as data frame of the opinion pools data for
+    2017 uk general election
 
+    variables:
+    ----------
+    full_path: Enter the full path for directory you wish to download to defult is current directory
+    return_df: Boolean value, set true to return the dataset.
+
+    '''
     url = 'https://en.wikipedia.org/wiki/Opinion_polling_for_the_United_Kingdom_general_election,_2017'
     respond = requests.get(url)
     soup = bs.BeautifulSoup(respond.text, 'lxml')
