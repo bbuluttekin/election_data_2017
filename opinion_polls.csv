@@ -1,10 +1,20 @@
 "Date(s)
 conducted",Polling organisation/client,Sample size,Con,Lab,UKIP,Lib Dem,SNP,Green,Others,Lead,Year
+30 May–1 Jun,Ipsos MORI/Evening Standard,1046,45.0,40.0,2.0,7.0,3.0,2.0,,5.0,2017
+26 May–1 Jun,Panelbase,1224,44.0,36.0,5.0,7.0,5.0,2.0,1.0,8.0,2017
+26 May–1 Jun,YouGov[b],53000,42.0,38.0,3.0,9.0,4.0,2.0,1.0,4.0,2017
+30–31 May,YouGov/The Times,1875,42.0,39.0,4.0,7.0,4.0,2.0,1.0,3.0,2017
+25–31 May,YouGov[b],53611,42.0,38.0,3.0,9.0,4.0,2.0,2.0,4.0,2017
+25–30 May,Kantar Public,1199,43.0,33.0,4.0,11.0,4.0,3.0,1.0,10.0,2017
+24–30 May,YouGov[b],53464,41.0,38.0,4.0,9.0,4.0,2.0,2.0,3.0,2017
+26–29 May,ICM/The Guardian,2002,45.0,33.0,5.0,8.0,4.0,3.0,2.0,12.0,2017
+26–27 May,Survation/Good Morning Britain,1009,43.0,37.0,4.0,8.0,2.0,1.0,4.0,6.0,2017
 25–26 May,YouGov/Sunday Times,2003,43.0,36.0,4.0,9.0,4.0,2.0,1.0,7.0,2017
 24–26 May,ICM/The Sun on Sunday,2044,46.0,32.0,5.0,8.0,4.0,2.0,1.0,14.0,2017
 24–26 May,"ComRes/Sunday Mirror, Independent on Sunday",2024,46.0,34.0,5.0,8.0,4.0,2.0,1.0,12.0,2017
 24–25 May,YouGov/The Times,2052,43.0,38.0,4.0,10.0,5.0,1.0,0.0,5.0,2017
 23–24 May,Opinium/Observer,2002,45.0,35.0,5.0,7.0,5.0,2.0,1.0,10.0,2017
+19–23 May,Panelbase/The Sunday Times,1019,48.0,33.0,4.0,7.0,5.0,2.0,1.0,15.0,2017
 18–22 May,Kantar Public,1200,42.0,34.0,4.0,9.0,4.0,4.0,2.0,8.0,2017
 19–21 May,ICM/The Guardian,2004,47.0,33.0,4.0,9.0,4.0,2.0,1.0,14.0,2017
 19–20 May,Survation/Good Morning Britain (telephone),1034,43.0,34.0,4.0,8.0,3.0,2.0,5.0,9.0,2017
@@ -191,11 +201,11 @@ Pre-23 Apr,Norstat/Sunday Express,1036,42.0,26.0,8.0,10.0,,6.0,8.0,16.0,2017
 20–24 Nov,YouGov,4317,38.0,29.0,17.0,6.0,5.0,3.0,1.0,9.0,2015
 20–22 Nov,ComRes/Daily Mail,1000,40.0,29.0,11.0,8.0,4.0,3.0,4.0,11.0,2015
 18–20 Nov,"ComRes/Independent on Sunday, Sunday Mirror",2067,42.0,27.0,15.0,7.0,5.0,3.0,1.0,15.0,2015
-16–17 Nov,Survation/Leave.EU[b],1546,37.0,30.0,16.0,6.0,5.0,3.0,3.0,7.0,2015
+16–17 Nov,Survation/Leave.EU[c],1546,37.0,30.0,16.0,6.0,5.0,3.0,3.0,7.0,2015
 14–17 Nov,Ipsos MORI/Evening Standard,1021,41.0,34.0,7.0,7.0,6.0,4.0,,7.0,2015
 11–17 Nov,BMG Research,1334,37.0,30.0,15.0,7.0,4.0,4.0,2.0,7.0,2015
 13–15 Nov,ICM/The Guardian,1006,39.0,33.0,12.0,7.0,5.0,3.0,1.0,6.0,2015
-9–11 Nov,Survation/Leave.EU[b],2007,36.0,30.0,15.0,7.0,5.0,3.0,3.0,6.0,2015
+9–11 Nov,Survation/Leave.EU[c],2007,36.0,30.0,15.0,7.0,5.0,3.0,3.0,6.0,2015
 22–27 Oct,BMG Research,1467,37.0,31.0,15.0,6.0,4.0,5.0,2.0,6.0,2015
 23–25 Oct,ComRes/Daily Mail,1002,38.0,33.0,10.0,8.0,3.0,3.0,4.0,5.0,2015
 17–19 Oct,Ipsos MORI/Evening Standard,1021,36.0,32.0,12.0,10.0,5.0,3.0,2.0,4.0,2015
